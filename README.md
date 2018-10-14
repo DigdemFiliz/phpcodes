@@ -1,5 +1,5 @@
 # phpcodes
-This project about simple calculator.
-There is two php pages:
-First page is about entering numbers and showing the result.
-Second page is about doing the selected operations(summation, multiplication, extraction and division)
+Proje basit bir hesap malinesi yapmakla ilgilidir.
+Form kullanılarak yapılmıştır. İki php kod sayfasından oluşur:
+İlk sayfada kullanıcıdan iki sayı alınır ve işlemi seçmesi istenir.
+İkinci sayfada işlem yapılır ve sonucu kullanıcıya gösterilir.
